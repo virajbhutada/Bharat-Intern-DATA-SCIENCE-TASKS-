@@ -21,8 +21,6 @@ In this immersive journey, I delve into the intricate world of Google's stock ma
 
 **Author: Viraj N. Bhutada**
 
-Predicting the Fate of Titanic Passengers
-
 Prepare to set sail on the iconic Titanic as we navigate through the riveting tales of its passengers. From economic class distinctions to age and gender disparities, we'll dissect the Titanic dataset, uncovering intriguing stories of survival. Buckle up for a thrilling ride through data analysis, captivating visualizations, and the deployment of state-of-the-art prediction models.
 
 **Highlights**:
