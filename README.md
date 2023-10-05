@@ -14,7 +14,11 @@ In this immersive journey, I delve into the intricate world of Google's stock ma
 
 **Future Gazing**: Harness the power of LSTM, a cutting-edge neural network, to predict Google's future stock prices with precision and finesse.
 
+
+
 **Task 2: Titanic Classification Prediction 📈**
+
+**Author: Viraj N. Bhutada**
 
 Predicting the Fate of Titanic Passengers
 
