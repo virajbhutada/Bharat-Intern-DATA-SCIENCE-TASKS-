@@ -1,6 +1,6 @@
 # Bharat-Intern-DATA-SCIENCE-TASKS-
 
-**Task 1: Google Stock Analysis 📊 + Prediction using LSTM 📈**
+**TASK 1: GOOGLE STOCK ANALYSIS 📊 + PREDICTION USING LSTM 📈**
 
 **Author: Viraj N. Bhutada**
 
@@ -16,7 +16,8 @@ In this immersive journey, I delve into the intricate world of Google's stock ma
 
 
 
-**Task 2: Titanic Classification Prediction 📈**
+
+**TASK 2: TITANIC CLASSIFICATION PREDICTION 📈**
 
 **Author: Viraj N. Bhutada**
 
