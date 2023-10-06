@@ -32,3 +32,8 @@ Prepare to set sail on the iconic Titanic as I navigate through the riveting tal
 **Modeling Marvels**: Witness the power of machine learning as I employ cutting-edge models to predict survival outcomes, demystifying the art of data-driven predictions.
 
 Get ready for this exhilarating dual-task adventure, where Google's stock market becomes a canvas for analysis, and the Titanic's story unfolds through the lens of data science!
+
+
+
+
+I have been enriched by this analysis and would like to express my heartfelt gratitude to **Bharat Intern** for providing me with this valuable opportunity. My understanding of data analysis and modeling techniques has deepened through this experience. I am thankful for the chance to contribute and learn within this inspiring community.
