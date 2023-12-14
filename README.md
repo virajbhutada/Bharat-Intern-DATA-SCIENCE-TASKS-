@@ -1,4 +1,5 @@
 # Bharat-Intern-DATA-SCIENCE-TASKS-
+---
 
 **TASK 1: GOOGLE STOCK ANALYSIS 📊 + PREDICTION USING LSTM 📈**
 
@@ -15,6 +16,7 @@ In this immersive journey, I delve into the intricate world of Google's stock ma
 **Future Gazing**: Harness the power of LSTM, a cutting-edge neural network, to predict Google's future stock prices with precision and finesse.
 
 
+----
 
 
 **TASK 2: TITANIC CLASSIFICATION PREDICTION 📈**
