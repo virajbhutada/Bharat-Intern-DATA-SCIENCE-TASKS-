@@ -1,6 +1,5 @@
-# Bharat-Intern-DATA-SCIENCE-TASKS-
+# Bharat-Intern-DATA-SCIENCE-TASKS
 ---
-
 **TASK 1: GOOGLE STOCK ANALYSIS 📊 + PREDICTION USING LSTM 📈**
 
 **Author: Viraj N. Bhutada**
