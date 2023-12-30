@@ -14,6 +14,8 @@ In this immersive journey, I delve into the intricate world of Google's stock ma
 
 **Future Gazing**: Harness the power of LSTM, a cutting-edge neural network, to predict Google's future stock prices with precision and finesse.
 
+Dataset Link: https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+
 
 ----
 
@@ -31,6 +33,8 @@ Prepare to set sail on the iconic Titanic as I navigate through the riveting tal
 **Visual Odyssey**: Embark on a visual exploration, vividly depicting survival probabilities and demographic nuances.
 
 **Modeling Marvels**: Witness the power of machine learning as I employ cutting-edge models to predict survival outcomes, demystifying the art of data-driven predictions.
+
+Dataset Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 Get ready for this exhilarating dual-task adventure, where Google's stock market becomes a canvas for analysis, and the Titanic's story unfolds through the lens of data science!
 
