@@ -1,10 +1,10 @@
-# Bharat-Intern-DATA-SCIENCE-TASKS
+# DataScience-BharatIntern-Projects
 ---
 **TASK 1: GOOGLE STOCK ANALYSIS 📊 + PREDICTION USING LSTM 📈**
 
 **Author: Viraj N. Bhutada**
 
-In this immersive journey, I delve into the intricate world of Google's stock market. With keen observation and meticulous analysis, I uncover the nuanced patterns and fluctuations within Google's stock data. Employing the cutting-edge LSTM technology, I navigate the complexities, foreseeing future trajectories, and providing insights that empower informed decision-making.
+In this immersive journey, I delve into the intricate world of Google's stock market. I uncover the nuanced patterns and fluctuations within Google's stock data with keen observation and meticulous analysis. Employing cutting-edge LSTM technology, I navigate the complexities, foreseeing future trajectories, and providing insights that empower informed decision-making.
 
 **What Awaits You**:
 
@@ -28,7 +28,7 @@ Prepare to set sail on the iconic Titanic as I navigate through the riveting tal
 
 **Data Unveiling**: Peel back the layers of Titanic's history, revealing the fate of its passengers through meticulous data analysis.
 
-**Visual Odyssey**: Embark on a visual exploration, painting a vivid picture of survival probabilities and demographic nuances.
+**Visual Odyssey**: Embark on a visual exploration, vividly depicting survival probabilities and demographic nuances.
 
 **Modeling Marvels**: Witness the power of machine learning as I employ cutting-edge models to predict survival outcomes, demystifying the art of data-driven predictions.
 
@@ -37,4 +37,4 @@ Get ready for this exhilarating dual-task adventure, where Google's stock market
 
 
 
-I have been enriched by this analysis and would like to express my heartfelt gratitude to **Bharat Intern** for providing me with this valuable opportunity. My understanding of data analysis and modeling techniques has deepened through this experience. I am thankful for the chance to contribute and learn within this inspiring community.
+This analysis has enriched me and would like to express my heartfelt gratitude to **Bharat Intern** for providing me with this valuable opportunity. My understanding of data analysis and modeling techniques has deepened through this experience. I am thankful for the chance to contribute and learn within this inspiring community.
