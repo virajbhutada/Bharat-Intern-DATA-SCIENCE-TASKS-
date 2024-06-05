@@ -1,44 +1,92 @@
-# DataScience-BharatIntern-Projects
+## 🚢 Titanic Classification
+
+The objective of this project was to design a robust system capable of predicting a person's likelihood of survival in the event of the Titanic disaster. This challenge involved meticulously analyzing the dataset, extracting meaningful insights, and constructing predictive models to forecast survival outcomes.
+
+## Key Conditions
+
+### Factors for Prediction
+The primary focus was on understanding the influence of various factors on survival probabilities:
+
+| Factor                | Description                                   |
+|-----------------------|-----------------------------------------------|
+| **Socio-economic status** | Class of the passenger (1st, 2nd, 3rd)     |
+| **Age**               | Age of the passenger                          |
+| **Gender**            | Gender of the passenger                       |
+| **Family relationships** | Number of siblings/spouses aboard          |
+| **Fare**              | Ticket price paid by the passenger            |
+
 ---
-**TASK 1: GOOGLE STOCK ANALYSIS 📊 + PREDICTION USING LSTM 📈**
 
-**Author: Viraj N. Bhutada**
+### Machine Learning Models
+Several classification algorithms were employed to create accurate predictive models:
 
-In this immersive journey, I delve into the intricate world of Google's stock market. I uncover the nuanced patterns and fluctuations within Google's stock data with keen observation and meticulous analysis. Employing cutting-edge LSTM technology, I navigate the complexities, foreseeing future trajectories, and providing insights that empower informed decision-making.
+| Model                    | Description                                 |
+|--------------------------|---------------------------------------------|
+| **Decision Tree Classifier** | A tree-based model for classification   |
+| **Logistic Regression**   | A statistical model for binary outcomes    |
+| **AdaBoost Classifier**   | An ensemble technique for boosting         |
+| **Random Forest Classifier** | An ensemble of decision trees           |
+| **K-Nearest Neighbors (KNN)** | A distance-based classification model  |
 
-**What Awaits You**:
+---
 
-**Data Dive**: Plunge into the world of Google's stock market, examining trends, anomalies, and market sentiments.
+## Approach
 
-**Risk Radar**: Navigate the intricacies of risk assessment, employing historical data to foresee potential market fluctuations.
+### Data Exploration
+🔍 **Initial Analysis**: An in-depth exploration of the Titanic dataset to comprehend its structure and the variables within. This included examining data distributions and relationships between variables.
 
-**Future Gazing**: Harness the power of LSTM, a cutting-edge neural network, to predict Google's future stock prices with precision and finesse.
+### Data Preprocessing
+⚙️ **Data Cleaning and Preparation**:
+- **Handling Missing Values**: Missing values were imputed using appropriate strategies.
+- **Encoding Categorical Variables**: Categorical variables were encoded to be compatible with machine learning algorithms.
+- **Feature Selection**: Relevant features were carefully selected based on their predictive power and importance.
 
-Dataset Link: https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+### Model Selection and Evaluation
+📊 **Training and Evaluation**:
+- Models were trained on the training data and rigorously evaluated to ensure accuracy and reliability.
+- Performance metrics such as accuracy, precision, recall, and F1-score were used to compare models.
 
+| Metric       | Description                                  |
+|--------------|----------------------------------------------|
+| **Accuracy** | Proportion of correctly predicted instances  |
+| **Precision**| Proportion of true positive instances        |
+| **Recall**   | Proportion of actual positives correctly identified |
+| **F1-score** | Harmonic mean of precision and recall        |
 
-----
+---
 
+### Fine-tuning
+🔧 **Hyperparameter Tuning**: Techniques were employed to optimize the models for better predictive performance. This step involved adjusting model parameters to enhance accuracy and generalization.
 
-**TASK 2: TITANIC CLASSIFICATION PREDICTION 📈**
+### Visualization
+📈 **Data Visualizations**:
+- **Histograms**: To visualize the distribution of numerical variables.
+- **Countplots**: To show the count of categorical variable levels.
+- **Heatmaps**: To illustrate correlation between features.
+- **Pair Plots**: To explore relationships between multiple features.
 
-**Author: Viraj N. Bhutada**
+---
 
-Prepare to set sail on the iconic Titanic as I navigate through the riveting tales of its passengers. From economic class distinctions to age and gender disparities, I'll dissect the Titanic dataset, uncovering intriguing stories of survival. Buckle up for a thrilling ride through data analysis, captivating visualizations, and the deployment of state-of-the-art prediction models.
+### Conclusion
+📝 **Summary**: The project concluded with a comprehensive analysis summarizing the findings, including the impact of socio-economic status, age, and gender on survival probabilities. The exploration revealed significant insights into the factors influencing passenger survival. Through meticulous modeling and hyperparameter tuning, the most accurate predictive model was identified.
 
-**Highlights**:
+### Models Used
+Here are the models used in this project, along with their implementation:
 
-**Data Unveiling**: Peel back the layers of Titanic's history, revealing the fate of its passengers through meticulous data analysis.
+```python
+models = {
+    'Decision Tree Classifier': DecisionTreeClassifier(),
+    'Logistic Regression': LogisticRegression(),
+    'Ada Boost Classifier': AdaBoostClassifier(),
+    'Random Forest': RandomForestClassifier(),
+    'KNN': KNeighborsClassifier()
+}
+```
 
-**Visual Odyssey**: Embark on a visual exploration, vividly depicting survival probabilities and demographic nuances.
+### Dataset
+The Titanic dataset used for this project is available on Kaggle:
+- [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
-**Modeling Marvels**: Witness the power of machine learning as I employ cutting-edge models to predict survival outcomes, demystifying the art of data-driven predictions.
+---
 
-Dataset Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
-
-Get ready for this exhilarating dual-task adventure, where Google's stock market becomes a canvas for analysis, and the Titanic's story unfolds through the lens of data science!
-
-
-
-
-This analysis has enriched me and would like to express my heartfelt gratitude to **Bharat Intern** for providing me with this valuable opportunity. My understanding of data analysis and modeling techniques has deepened through this experience. I am thankful for the chance to contribute and learn within this inspiring community.
+This analysis of the Titanic dataset provided valuable insights into the factors influencing passenger survival. The project encompassed diverse aspects, including socio-economic status, age, gender, and family relationships. Through meticulous modeling and hyperparameter tuning, the most accurate predictive model was identified. The visualizations, particularly pair plots, were instrumental in illustrating the relationships between vital variables and deepening the understanding of the dataset. This project served as a significant learning experience, enriching my understanding of data analysis and modeling techniques and highlighting the pivotal roles of socio-economic status and age in shaping survival probabilities during the tragic Titanic disaster.
